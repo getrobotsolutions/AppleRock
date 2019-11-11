@@ -25,9 +25,9 @@
   }
   .wrap{   
     height: 1600px;
-   width: 943px;
+   width: 910px;
     margin: 0 auto;
-    padding-top: 20px;
+    padding-top: 90px;
     border-radius: 10px;
   }
   h1, h2{color: white;margin: 20px 0;}

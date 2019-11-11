@@ -91,11 +91,11 @@ function FC_ContentsCall(strContentsName, strLanguage)
         
         
             
-        case "music":
+        case "Config":
             if(conf_count === 3)
             {
                 conf_count = 0;
-                location.href = "Contents/songTrigger/index.htm";
+                location.href = "Contents/Config/Config.htm";
             }
             else
             {

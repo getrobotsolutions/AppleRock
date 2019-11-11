@@ -1,6 +1,6 @@
 @import url(http://weloveiconfonts.com/api/?family=brandico);
 /* brandico */
-[class*="brandico-"]:before {
+/*[class*="brandico-"]:before {
   font-family: 'brandico', sans-serif;
 }
 
@@ -25,7 +25,7 @@ header{
   height: 100%;
   min-height: 500px;
   padding-bottom: 20px;
-}
+}*/
 
 .game {
   -webkit-transform-style: preserve-3d;

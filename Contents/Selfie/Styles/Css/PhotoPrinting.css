@@ -32,6 +32,8 @@ body {
 	background-position-y: -180px;*/
 	height: 1605px !important;
 	background-image: url("../../../../assets/background.png"); 
+	background-repeat: no-repeat;
+    background-size: cover;
 	/*border-bottom: 20px solid #f79226;*/
 }
 #selfie-instructions{

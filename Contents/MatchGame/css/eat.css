@@ -1,5 +1,5 @@
-.main-content{width: 1080px;    height: 1857px;padding-top:0;border:0;
-  /*background-image: url('../images/background.png');*/background-position-y: -260px;}
+.main-content{width: 1080px;    height: 1600px;padding-top:0;border:0;
+  /*background-image: url('../images/background.png');*/}
 .img-home {position: absolute;
       top: 77px;
     right: 88px;
@@ -24,7 +24,7 @@
     background-size: cover;
   }
   .wrap{   
-    height: 1650px;
+    height: 1600px;
    width: 943px;
     margin: 0 auto;
     padding-top: 20px;

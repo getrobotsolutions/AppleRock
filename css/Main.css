@@ -168,11 +168,13 @@ footer img{
     display: flex;
 }
 .rentMe h1{
-     color: black;
-     font-weight: bolder;
-     font-size: 45px;
-     letter-spacing: 12px;
-     padding-left: 35px;
+    color: black;
+    font-weight: bolder;
+    font-size: 45px;
+    letter-spacing: 10px;
+    padding-left: 35px;
+    font-family: sans-serif;
+    font-weight: 800;
 }
 a.button {
 	/* styles for button */

@@ -1,0 +1,14 @@
+.navigation-box {
+    background-color: white;
+    width: 340px;
+    border: 10px solid black;
+    padding: 10px;
+    height: 420px;
+    margin: 0px 100px 50px 100px;}
+
+    .main-content {
+    height: 1175px;
+    margin-top: 0;
+    padding-top: 130px;
+    box-sizing: border-box;
+}
